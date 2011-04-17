@@ -1,0 +1,4 @@
+This code connects to the FACEBOOK rest api in groovy.
+
+I couldn't find a good groovy library out there the integrates with FB.
+
